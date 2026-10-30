@@ -1,2 +1,3 @@
 # 👋 Hi, I'm Pallab Bag
 ### 💻 Full-Stack Developer | BCA Student | Tech Enthusiast
+I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving problems, and turning ideas into practical digital solutions.
