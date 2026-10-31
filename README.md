@@ -7,3 +7,4 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 - 🎓 Pursuing Bachelor of Computer Applications (BCA).
 - 💻 Interested in Full-Stack Web Development and UI/UX Design.
 - 🌱 Continuously learning modern development technologies.
+- 🛠️ Building projects to solve real-world problems
