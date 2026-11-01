@@ -12,3 +12,4 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 - 🤝 Interested in open-source contributions and collaboration.
 - 🎯 Focused on creating meaningful digital experiences.
 ---
+## 🧰 Tech Stack
