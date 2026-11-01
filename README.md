@@ -9,3 +9,5 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 - 🌱 Continuously learning modern development technologies.
 - 🛠️ Building projects to solve real-world problems
 - 🤝 Interested in open-source contributions and collaboration.
+- 🎯 Focused on creating meaningful digital experiences.
+- 
