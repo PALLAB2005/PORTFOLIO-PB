@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Pallab Bag
+### wellocome to my portfolio
 ### 💻 Full-Stack Developer | BCA Student | Tech Enthusiast
 I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving problems, and turning ideas into practical digital solutions.
 🌐 **Portfolio:** [Visit My Portfolio](https://pallab-portfolio-rosy.vercel.app/)
@@ -22,3 +23,4 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ## 🌟 Featured Projects
+ 
