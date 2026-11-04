@@ -25,3 +25,7 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 ## 🌟 Featured Projects
  
 ### 📚 StudyAI Platform
+An educational platform project exploring technology-driven learning experiences.
+
+- **Repository:** [StudyAI Platform](https://github.com/PALLAB2005/studyai-platform)
+- **Tech Focus:** Web Development, Educational Technology
