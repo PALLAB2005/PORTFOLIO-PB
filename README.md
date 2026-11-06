@@ -23,6 +23,7 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ## 🌟 Featured Projects
+### 🌐 Personal Portfolio
  
 ### 📚 StudyAI Platform
 An educational platform project exploring technology-driven learning experiences.
