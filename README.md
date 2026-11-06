@@ -24,7 +24,9 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ## 🌟 Featured Projects
 ### 🌐 Personal Portfolio
- 
+ A personal website showcasing my projects, development skills, and professional journey.
+
+- **Live Website:** [View Portfolio](https://pallab-portfolio-rosy.vercel.app/)
 ### 📚 StudyAI Platform
 An educational platform project exploring technology-driven learning experiences.
 
