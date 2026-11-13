@@ -86,32 +86,7 @@ A digital agency initiative focused on professional websites and digital solutio
 - 📊 **Deloitte** — Data Analytics Job Simulation
 - 🧠 **IBM** — Artificial Intelligence Fundamentals
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PALLAB2005&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Pallab's GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAB2005&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Programming Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=PALLAB2005&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
