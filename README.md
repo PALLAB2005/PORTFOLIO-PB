@@ -107,3 +107,67 @@ A digital agency initiative focused on professional websites and digital solutio
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 ```
+# 👨‍💻 Pallab Bag | Developer Portfolio
+
+A modern, responsive, and interactive personal portfolio website showcasing my skills, projects, experience, and achievements.
+
+🌐 **Live Website:** https://pallabbag.vercel.app/portofolio/
+
+---
+
+## 🚀 About Me
+
+Hi, I'm **Pallab Bag**, a Full-Stack Web Developer passionate about building modern, responsive, and user-friendly web applications.
+
+I enjoy exploring new technologies, developing creative solutions, and creating engaging digital experiences.
+
+---
+
+## ✨ Features
+
+- Modern and responsive design
+- Interactive 3D elements
+- Smooth animations and transitions
+- Personal introduction
+- Skills and technologies showcase
+- Projects portfolio
+- Work experience section
+- Contact information
+- Cross-device compatibility
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Frontend | React.js, JavaScript, HTML5, CSS3 |
+| Styling | Tailwind CSS |
+| 3D Graphics | Three.js, React Three Fiber, React Three Drei |
+| Build Tool | Vite |
+| Version Control | Git, GitHub |
+| Deployment | Vercel |
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](./page.png)
+
+---
+
+## 📂 Project Structure
+
+```text
+PALLABBAG-PORTFOLIO/
+├── public/
+│   └── assets/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
