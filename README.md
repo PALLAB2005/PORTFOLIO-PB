@@ -1,5 +1,6 @@
 
-# 👋 Hi, I'm Pallab Bag
+# 👋 Hi, I'm Pallab Bag 
+## I am a Fullstack Developer 
 
 ### 💻 Full-Stack Developer | BCA Student | Tech Enthusiast
 
